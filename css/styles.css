@@ -1,18 +1,44 @@
- .hero-btn:hover{
+.hero-btn:hover {
     background-color: #434455;
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
-    }
-    
- .body {
+}
+.link {
+    text-decoration: none;
+    font-style: normal;
+}
+.site-nav .link:hover,
+.site-nav .link:focus {
+    color: var(--color-OCEAN);
+    text-decoration: none;
+    font-size: normal;
+}
+.navigation-nav .link {
+    text-decoration: none;
+    color: var(--color-SLATE);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    font-style: normal;
+}
+.navigation-nav .link:hover,
+.navigation-nav .link:focus {
+    color: var(--color-OCEAN);
+    text-decoration: none;
+    font-size: normal;
+}
+
+.body {
     font-family: Roboto;
-    sans-serif:;
+    sans-serif: ;
     color: #434455;
-    }
-  
+}
 
-
-    
+.list {
+    list-style: none;
+    font-style: normal;
+}
