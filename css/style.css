@@ -9,6 +9,7 @@
 .link {
     text-decoration: none;
     font-style: normal;
+    color: #2e2f42;
 }
 .site-nav .link:hover,
 .site-nav .link:focus {
