@@ -43,3 +43,60 @@
     list-style: none;
     font-style: normal;
 }
+.logo:hover,
+.logo:focus {
+color: var(--logo-color);
+}
+.logostudio:hover,
+.logostudio:focus {
+color: var(--secondary-text-color);
+}
+.nav-link {
+font-weight: 500;
+color: var(--secondary-text-color);
+}
+.nav-link:hover,
+.nav-link:focus {
+    color:var(--accent-color);
+}
+.address {
+    font-style: normal;
+}
+.contacts {
+    font-style: normal;
+    color: var(--body-text-color);
+}
+.contacts:hover,
+.contacts:focus{
+color: var(--accent-color);
+
+}
+.products-title {
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11;
+text-align: center;
+text-transform: capitalize;
+color:  var(--secondary-text-color);
+}
+.team {
+    background-color: var(--secondary-background-color);
+}
+.team-list {
+    color: var(--primary-white-color);
+}
+.team-tittle {
+    font-weight: 700;
+font-size: 36px;
+line-height: 1.11;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color: var(--secondary-text-color);
+}
+.team-list-title {
+font-weight: 500;
+font-size: 20p;
+line-height: 1.2;
+letter-spacing: 0.02em;
+ }
