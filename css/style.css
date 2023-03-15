@@ -7,46 +7,32 @@
     color: #ffffff;
 }
 .link {
-    text-decoration: none;
-    font-style: normal;
-    color: #2e2f42;
+
 }
-.site-nav .link:hover,
-.site-nav .link:focus {
-    color: var(--color-OCEAN);
-    text-decoration: none;
-    font-size: normal;
-}
-.navigation-nav .link {
-    text-decoration: none;
-    color: var(--color-SLATE);
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    font-style: normal;
-}
-.navigation-nav .link:hover,
-.navigation-nav .link:focus {
-    color: var(--color-OCEAN);
-    text-decoration: none;
-    font-size: normal;
+.logo-studio {
+    display: flex;
+   align-items: center; 
+   letter-spacing: 0.03em;
+   text-transform: uppercase;
+   color: #2e2f42;
+
 }
 
-.body {
-    font-family: 'Roboto',
-    sans-serif;
-    color: #434455;
+.menu {
+    font-family: 'Roboto',sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+     color:#2e2f42;
+
 }
 
 .list {
     list-style: none;
     font-style: normal;
 }
-.logo:hover,
-.logo:focus {
-color: var(--logo-color);
-}
+
 .logostudio:hover,
 .logostudio:focus {
 color: var(--secondary-text-color);
@@ -55,48 +41,12 @@ color: var(--secondary-text-color);
 font-weight: 500;
 color: var(--secondary-text-color);
 }
-.nav-link:hover,
-.nav-link:focus {
-    color:var(--accent-color);
-}
-.address {
-    font-style: normal;
-}
-.contacts {
-    font-style: normal;
-    color: var(--body-text-color);
-}
-.contacts:hover,
-.contacts:focus{
-color: var(--accent-color);
 
-}
 .products-title {
-font-weight: 700;
-font-size: 36px;
-line-height: 1.11;
-text-align: center;
-text-transform: capitalize;
-color:  var(--secondary-text-color);
-}
-.team {
-    background-color: var(--secondary-background-color);
-}
-.team-list {
-    color: var(--primary-white-color);
-}
-.team-tittle {
     font-weight: 700;
-font-size: 36px;
-line-height: 1.11;
-text-align: center;
-letter-spacing: 0.02em;
-text-transform: capitalize;
-color: var(--secondary-text-color);
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    text-transform: capitalize;
+    color: var(--secondary-text-color);
 }
-.team-list-title {
-font-weight: 500;
-font-size: 20p;
-line-height: 1.2;
-letter-spacing: 0.02em;
- }
