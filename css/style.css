@@ -1,4 +1,7 @@
-
+.body {
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+}
 .logo-studio {
     display: flex;
    align-items: center; 
