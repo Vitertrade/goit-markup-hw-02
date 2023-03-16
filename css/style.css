@@ -1,26 +1,33 @@
+
+:root {
+    background-color: #FFFFFF;
+}
+
+
 .body {
 font-family: "Roboto", sans-serif;
 color: #434455;
 }
-:root {
-    background-color:#FFFFFF;
-}
-.logo-studio {
-    display: flex;
-   align-items: center; 
-   letter-spacing: 0.03em;
-   text-transform: uppercase;
-   color: #2e2f42;
-}
-.menu {
-    font-family: 'Roboto',sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-     color:#2e2f42;
 
+
+
+
+.link {
+text-decoration: none;
 }
+
+.lisk {
+list-style: none;
+}
+.logo-studio {display: flex;
+    align-items: center;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #2e2f42;
+}
+    
+
+
 .footer-logo {
     font-family: 'Raleway', sans-serif;
     font-weight: 800;
@@ -31,8 +38,8 @@ color: #434455;
    text-decoration: none;
 }
 .span-logo{
-color: #f4f4fd
-
+color: #f4f4fd;
+text-decoration: none;
 }
 
 .footer-text {
@@ -42,25 +49,4 @@ color: #f4f4fd
   letter-spacing: 0.02em;
   color: #f4f4fd;
 }
-.list {
-    list-style: none;
-    font-style: normal;
-}
 
-.logostudio:hover,
-.logostudio:focus {
-color: var(--secondary-text-color);
-}
-.nav-link {
-font-weight: 500;
-color: var(--secondary-text-color);
-}
-
-.products-title {
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 1.11;
-    text-align: center;
-    text-transform: capitalize;
-    color: var(--secondary-text-color)
-    }
