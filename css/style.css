@@ -3,7 +3,17 @@
  color: #434455;
 background-color:#FFFFFF;
 }
-
-.header {
+.list{
+    list-style: none;
+}
+.link{
+    text-decoration: none;
+}
+.header 
     
+.list{
+    list-style: none;
+}
+.link{
+    text-decoration: none;
 }
