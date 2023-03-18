@@ -3,11 +3,24 @@
 font-family: "Roboto", sans-serif;
 color: #434455;
 }
+.list {
+    list-style: none;
+}
+.link {
+    text-decoration: none;
+}
+.header {
 
+}
+.header-nav {
 
+}
+.header-logo {
 
+}
+.header-list {
 
-    
+}
+.header-item {
 
-
-
+}
