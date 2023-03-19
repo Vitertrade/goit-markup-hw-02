@@ -32,4 +32,6 @@ list-style: none;
 .span {
 color: #2e2f42;
     }
-    
+.nav {
+list-style: none;
+}
