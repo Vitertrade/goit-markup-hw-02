@@ -5,9 +5,6 @@
 --footer-background-color: #2e2f42;
 
 }
-
-
-
 .body  {
  font-family: "Roboto", sans-serif;
  color: #434455;
@@ -49,7 +46,7 @@ text-transform: uppercase;
 color: #4d5ae5;
 }
 
-.footer-logo {
+.footer-logo  {
 font-family: "Raleway";
 font-style: normal;
 font-weight: 800;
