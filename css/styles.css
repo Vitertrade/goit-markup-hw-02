@@ -4,7 +4,9 @@
 --logo-color: #2e2f42;
 --header-link-color: #2e2f42;
 --footer-background-color: #2e2f42;
+--header-nav: text-decoration:none;
 }
+
 
 
 .body  {
@@ -39,7 +41,19 @@ color: #4d5ae5;
 .header-logo >span {
 color: #2e2f42;
     }
-
+.header-nav-link {
+list-style: none;
+font-style: oblique;
+font-size: 18px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2e2f42 ;
+}
+.address {
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
 .header-link{
 text-decoration: none;
 }
