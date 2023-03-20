@@ -1,11 +1,15 @@
-:root 
+:root {
+--main-background-color: #fffff;
+--second-color: #4d5ae5;
+--logo-color: #2e2f42;
+}
 
 
 
 .body  {
  font-family: "Roboto", sans-serif;
  color: #434455;
-background-color:#FFFFFF;
+background-color: #FFFFFF;
 }
 .list {
     list-style: none;
