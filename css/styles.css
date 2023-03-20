@@ -2,9 +2,11 @@
 --main-background-color: #fffff;
 --second-color: #4d5ae5;
 --logo-color: #2e2f42;
+--header-link-color: #2e2f42;
 --footer-background-color: #2e2f42;
-
 }
+
+
 .body  {
  font-family: "Roboto", sans-serif;
  color: #434455;
@@ -38,7 +40,7 @@ color: #4d5ae5;
 color: #2e2f42;
     }
 
-.link{
+.header-link{
 text-decoration: none;
 }
 
