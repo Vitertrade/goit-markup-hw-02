@@ -35,7 +35,7 @@ list-style: none;
 .link{
     text-decoration: none;
 }
-.span {
+.header >span {
 color: #2e2f42;
     }
 .footer {
