@@ -58,7 +58,9 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
 }
-
+.footer >span {
+    color: #f4f4fd;
+}
 .footer-logo-double  {
     font-family: "Raleway", sans-serif;
     font-style: normal;
