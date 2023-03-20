@@ -47,7 +47,7 @@ color: #4d5ae5;
 }
 
 .footer-logo  {
-font-family: "Raleway";
+font-family: "Raleway", sans-serif;
 font-style: normal;
 font-weight: 800;
 font-size: 18px;
@@ -60,7 +60,7 @@ color: #4d5ae5;
 }
 
 .footer-logo-double  {
-    font-family: "Raleway";
+    font-family: "Raleway", sans-serif;
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
