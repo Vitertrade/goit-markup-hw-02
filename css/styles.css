@@ -1,14 +1,17 @@
 :root {
 --color-body: #434455;
+--logo-web: #4d5ae5;
+--logo-studio: #2e2f42;
+--header-contact-color: #404bbf;
 --brand-color: #ffffff;
---hover-order: #404bbf;
---button-normal: #4d5ae5;
+--button-footer-text: #f4f4fd;
+--button-color: #e7e9fc;
 }
 
 
 
 .body  {
- font-family: "Roboto", sans-serif;
+font-family: "Roboto", sans-serif;
 background-color: var(--brand-color);
 color: var(--color-body);
 }
@@ -35,7 +38,7 @@ font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: #4d5ae5;
+color: var(--logo-web);
 }
 .header-logo >span {
 color: #2e2f42;
