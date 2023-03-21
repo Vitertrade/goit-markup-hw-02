@@ -9,8 +9,8 @@
 }
 .body  {
 font-family: "Roboto", sans-serif;
-background-color: var(--brand-color);
-color: var(--color-body);
+color: #434455;
+background-color: #ffffff;
 }
 .list {
     list-style: none;
