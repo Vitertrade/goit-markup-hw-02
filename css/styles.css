@@ -1,10 +1,8 @@
 :root {
---main-background-color: #fffff;
---second-color: #4d5ae5;
---logo-color: #2e2f42;
---header-link-color: #2e2f42;
---footer-background-color: #2e2f42;
---header-nav: text-decoration:none;
+--color-body: #434455;
+--brand-color: #ffffff;
+--hover-order: #404bbf;
+--button-normal: #4d5ae5;
 }
 
 
