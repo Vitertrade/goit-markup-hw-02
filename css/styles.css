@@ -46,6 +46,13 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #2e2f42 ;
 }
+.header-address-link:hover, .header-address-link:focus{
+    color: var(--ocean-bgc-hover-focus-active-color);
+}
+
+
+
+
 .address {
 font-style: normal;
 line-height: 1.5;
