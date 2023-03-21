@@ -7,9 +7,6 @@
 --button-footer-text: #f4f4fd;
 --button-color: #e7e9fc;
 }
-
-
-
 .body  {
 font-family: "Roboto", sans-serif;
 background-color: var(--brand-color);
@@ -21,7 +18,6 @@ color: var(--color-body);
 .link{
     text-decoration: none;
 }
-
 .header-nav {
 list-style: none;
 font-weight: 500;
@@ -29,7 +25,6 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #2e2f42 ;
-
 }
 .header-logo {
 font-family: "Raleway", sans-serif;
@@ -60,25 +55,22 @@ color: #434455;
 text-decoration: none;
 }
 .work-list {
-    background-color: #2e2f42;
-    font-size: 56px;
-    line-height: 1.07;
-    text-align: center;
-    letter-spacing: 0.02em;
-    color: #ffffff;
-    }
-    .portfolio-btn {
-    background-color: #4D5AE5;
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-    color: #ffffff;
-   
+background-color: #2e2f42;
+font-size: 56px;
+line-height: 1.07;
+text-align: center;
+letter-spacing: 0.02em;
+color: #ffffff;
 }
-
-
+.portfolio-btn {
+background-color: #4D5AE5;
+font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #ffffff;
+}
 .footer {
 background-color:#2e2f42;
 font-family: "Raleway", sans-serif;
@@ -89,7 +81,6 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
 }
-
 .footer-logo  {
 font-family: "Raleway", sans-serif;
 font-style: normal;
@@ -101,22 +92,21 @@ align-items: center;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
-
 }
 .footer-logo >span {
     color: #f4f4fd;
 }
 .footer-logo-double  {
-    font-family: "Raleway", sans-serif;
-    font-style: normal;
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 1.17;
-    display: flex;
-    align-items: center;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #f4f4fd;
+font-family: "Raleway", sans-serif;
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 1.17;
+display: flex;
+align-items: center;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #f4f4fd;
 }
 .footer >span {
     color: #f4f4fd;
