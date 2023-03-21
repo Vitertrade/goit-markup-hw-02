@@ -1,5 +1,4 @@
 :root {
---color-body: #434455;
 --logo-web: #4d5ae5;
 --logo-studio: #2e2f42;
 --header-nav: #404bbf;
@@ -33,7 +32,6 @@ font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: var(--logo-web);
 }
 .header-logo >span {
 color: #2e2f42;
