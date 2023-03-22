@@ -49,12 +49,13 @@ color: #2e2f42 ;
     color: #404bbf;
     color: #404bbf;
 }
-.address {
+.header-address {
 font-style: normal;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 }
+
 .header-link{
 text-decoration: none;
 }
