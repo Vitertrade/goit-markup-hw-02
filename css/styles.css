@@ -37,7 +37,7 @@ text-decoration: none;
     color: #404bbf;
     color: #404bbf;
 }
-.header-nav-item {
+.header-nav-list {
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
@@ -46,7 +46,7 @@ color: #4d5ae5 ;
 color:#2e2f42 ;
 }
 
-.header-nav-list {
+.header-nav-item {
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
