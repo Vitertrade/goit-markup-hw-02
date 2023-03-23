@@ -39,6 +39,11 @@ color: #2e2f42;
 .header-logo>span {
 color: #2e2f42;
 }
+.header-logo-link:hover,
+.header-logo-link:focus {
+    color: #404bbf;
+    color: #404bbf;
+}
 .main-item-list {
 background-color: #2e2f42;
 font-size: 56px;
