@@ -26,7 +26,7 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
 } 
-.header- {
+.header-nav {
 text-decoration: none;
 }
 .header-logo {
@@ -38,7 +38,7 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
 }
-.header-logo>span {
+.header-nav>span {
     color: #2e2f42;
 }
 .header-logo-link:hover,
