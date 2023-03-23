@@ -28,8 +28,11 @@ color: #4d5ae5;
 } 
 .header {
 text-decoration: none;
+color: #4d5ae5 ;
 }
-
+.header>span {
+color: #2e2f42;
+}
 .main-item-list {
 background-color: #2e2f42;
 font-size: 56px;
