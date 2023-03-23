@@ -36,8 +36,12 @@ text-transform: uppercase;
 color: #4d5ae5;
 }
 .header-nav {
+color: #4d5ae5;
+text-decoration: none;
+}
+.header-logo-link {
+
     color: #4d5ae5;
-    text-decoration: none;
 }
 .header-logo-link>span {
     color: #2e2f42;
