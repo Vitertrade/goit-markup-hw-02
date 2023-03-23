@@ -47,6 +47,10 @@ color: #2e2f42;
     color: #404bbf;
 }
 .header-nav-list {
+
+
+}
+.header-nav-list {
     font-style: normal;
 }
 .address {
@@ -55,6 +59,7 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 .address {
+color: #434455;
 text-decoration: none;
 }
 
