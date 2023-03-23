@@ -40,7 +40,7 @@ color: #4d5ae5;
 .header-logo-link>span {
     color: #2e2f42;
 }
-.header-nav {
+.header-nav-link {
 font-family: "Raleway", sans-serif;
 font-weight: 800;
 font-size: 18px;
@@ -49,7 +49,7 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
 }
-.header-nav {
+.header-nav-link {
 color: #4d5ae5;
 text-decoration: none;
 }
