@@ -36,9 +36,10 @@ text-transform: uppercase;
 color: #4d5ae5;
 }
 .header-nav {
+    color: #4d5ae5;
     text-decoration: none;
 }
-.header-nav>span {
+.header-logo-link>span {
     color: #2e2f42;
 }
 .header-nav-link:hover,
