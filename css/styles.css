@@ -26,16 +26,16 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
 } 
-.header-link {
+.header-logo-link {
 text-decoration: none;
 }
-.header-logo {
+.header-nav-item {
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #4d5ae5 ;
-text-decoration: none;
+color:#2e2f42 ;
 }
 .header-logo-link>span {
 color: #2e2f42;
@@ -53,7 +53,6 @@ color: #2e2f42;
 }
 .address {
 font-size: 16px;
-font-style: normal;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
