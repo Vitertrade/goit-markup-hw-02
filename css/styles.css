@@ -37,21 +37,19 @@ text-decoration: none;
     color: #404bbf;
     color: #404bbf;
 }
-.header-nav-list {
+.header-nav-item {
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color:#2e2f42 ;
+color: #2e2f42;
 }
-
 .address {
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 }
-
 .main-item-list {
 background-color: #2e2f42;
 font-size: 56px;
