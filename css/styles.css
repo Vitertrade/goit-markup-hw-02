@@ -29,6 +29,14 @@ color: #4d5ae5;
 .header-logo-link {
 text-decoration: none;
 }
+.header-logo-link>span {
+    color: #2e2f42;
+}
+.header-logo-link:hover,
+.header-logo-link:focus {
+    color: #404bbf;
+    color: #404bbf;
+}
 .header-nav-item {
 font-weight: 500;
 font-size: 16px;
@@ -37,14 +45,7 @@ letter-spacing: 0.02em;
 color: #4d5ae5 ;
 color:#2e2f42 ;
 }
-.header-logo-link>span {
-color: #2e2f42;
-}
-.header-logo-link:hover,
-.header-logo-link:focus {
-color: #404bbf;
-color: #404bbf;
-}
+
 .header-nav-list {
 font-weight: 500;
 font-size: 16px;
