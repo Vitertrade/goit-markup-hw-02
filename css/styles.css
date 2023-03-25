@@ -2,7 +2,7 @@
 --logo-color: #4d5ae5;
 --logo-studio: #2e2f42;
 --header-nav: #404bbf;
---address: text-decoration: none; color: #404bbf;
+--address: #404bbf;
 --brand-color: #ffffff;
 --button-footer-text: #f4f4fd;
 --button-color: #e7e9fc;
@@ -89,10 +89,6 @@ font-style: normal;
     color: #404bbf;
 }
 
-
-
-
-
 .buttons-list {
 background-color: #2e2f42;
 font-size: 56px;
@@ -122,7 +118,6 @@ color: #4d5ae5;
 }
 .footer-logo  {
 font-family: "Raleway", sans-serif;
-font-style: normal;
 font-weight: 800;
 font-size: 18px;
 line-height: 1.17;
