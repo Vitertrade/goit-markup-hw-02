@@ -46,12 +46,12 @@ text-decoration: none;
 .header-logo-link>span {
     color: #2e2f42;
 }
-.header-nav-list {
+.header-nav-item {
+font-family: 'Roboto';
+font-style: normal;
 font-weight: 500;
 font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: #2e2f42;
+line-height: 24px;
 }
 
 .header-logo-link:hover,
@@ -74,22 +74,31 @@ color: #404bbf;
 .header-nav-list {
 font-style: normal;
 }
+.header-address{
+font-family: "Roboto";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+}
 .header-address {
-    font-style: normal;
+text-decoration: none;
+
+
 }
 .header-mail {
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
 }
 
 .header-mail:is(:hover, :focus) {
     color: #404bbf;
 }
 
-.buttons-list {
+.main-list-portfolio {
 background-color: #2e2f42;
 font-size: 56px;
 line-height: 1.07;
