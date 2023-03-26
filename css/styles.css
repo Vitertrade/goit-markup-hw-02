@@ -112,9 +112,7 @@ line-height: 1.5;
 letter-spacing: 0.04em;
 color: #ffffff;
 }
-.hero-btn {
-background-color: #4D5AE5;
-}
+
 .hero-btn:hover {
 background-color: #404BBF;
 }
@@ -123,6 +121,7 @@ background-color: #404BBF;
 background-color: #404BBF;
 }
 .hero-btn {
+background-color: #4D5AE5;
 cursor: pointer;
 }
 .footer {
