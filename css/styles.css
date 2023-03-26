@@ -23,7 +23,7 @@ background-color: #ffffff;
 font-family: "Raleway", sans-serif;
 font-weight: 800;
 font-size: 18px;
-line-height: 1.17;
+line-height: 24px;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
@@ -31,34 +31,27 @@ color: #4d5ae5;
 .header-logo {
 text-decoration: none;
 }
-.header-nav-link {
-font-family: "Raleway", sans-serif;
-font-weight: 800;
-font-size: 18px;
-line-height: 1.17;
-letter-spacing: 0.03em;
-text-transform: uppercase;
-color: #4d5ae5;
-} 
+
 .header-logo-link{
 text-decoration: none;
 }
 .header-logo-link>span {
     color: #2e2f42;
 }
-.header-nav-item {
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 500;
-font-size: 16px;
-line-height: 24px;
-}
+
 
 .header-logo-link:hover,
 .header-logo-link:focus {
 color: #404bbf;
-
 }
+.header-nav-item {
+font-family: 'Roboto';
+font-style: normal;
+ font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+ }
+
 .header-item:is(:hover, :focus) {
 color: #404bbf;
 }
